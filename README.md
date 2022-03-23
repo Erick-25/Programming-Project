@@ -14,10 +14,10 @@ Group Members: Matthew
 # Programming Project #2: Hangman
 
 ## GUI Image #1
-
+![Start Screen](Url)
 ## GUI Image #2
-
+![Background](Url)
 ## GUI Image #3
-
+![Game over screen](Url)
 ## Class Diagram #1
 ![Class Diamgram](https://github.com/Erick-25/Programming-Project/blob/main/images/Hangman.png?raw=true)
