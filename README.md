@@ -11,9 +11,7 @@ Group Members: Matthew
 ## Class Diagram #1
 
 
-# Programming Project #2: Flappy bird clone 
-A flappy bird styled game but there is other characters you can pick up to help you fight boss at the end or enimies along the way, 
-we have our main charracter has to move along the screen and avoid being hit by "pipes". 
+# Programming Project #2: Hangman
 
 ## GUI Image #1
 
@@ -22,3 +20,4 @@ we have our main charracter has to move along the screen and avoid being hit by 
 ## GUI Image #3
 
 ## Class Diagram #1
+![Class Diamgram](https://github.com/Erick-25/Programming-Project/blob/main/images/Hangman.png?raw=true)
